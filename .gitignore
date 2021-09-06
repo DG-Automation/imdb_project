@@ -1,3 +1,6 @@
 /.gradle/
 /.idea/
 /build/
+src/main/config.properties
+src/main/logs/log.txt
+src/main/resources/log4j.properties
